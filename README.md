@@ -1,4 +1,4 @@
-# zainnab20-coder
+# zainab20-coder
 ### Hi, I'm zainab 
 # 👋 Hi, I'm Zainab Majid  
 "u can call me zoey"
