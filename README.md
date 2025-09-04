@@ -1,16 +1,27 @@
-## Hi there 👋
+# zainnab20-coder
+### Hi, I'm zainab 
+# 👋 Hi, I'm Zainab Majid  
+"u can call me zoey"
+🎓 Software Engineering Student @ University of Mosul , Iraq
+💻 Passionate about coding, problem-solving, and creative design  
 
-<!--
-**zainab20-coder/zainab20-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+- 🧩 ENTP — curious, energetic, and full of ideas
+- 🌍 Bilingual: Arabic & English
+-  🌱 Self-learner — in both programming & spoken languages  
+- 🚀 Exploring Flutter, Firebase, Databases, and System Design
+- 🎨 I see software not just as code, but as creativity & storytelling  
+- 📚 Love writing reports, reading books, and analyzing stories (yes, even anime 🎮)  
+- ☕ Runs on coffee + challenges
 
-Here are some ideas to get you started:
+ ## Programming Skills  
+- Python 🐍 | C++ 💻 | Flutter 📱  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Journey  
+- 📌 Building projects like DocNow (medical booking app)  
+- 🌱 Growing everyday as a developer ,self-educated and thinker 
+- 🎯 Future dream → Master's degree abroad (Oxford, maybe? 😉)  
+
+## Let's Connect  
+💼 Open to collaborating on open-source projects & academic ideas  
+🌍 Always excited to learn something new
